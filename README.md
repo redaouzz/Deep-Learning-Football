@@ -40,6 +40,3 @@ The project was carried out in 4 main stages:
      - Integrate additional features: defensive stats, possession, key players.  
      - Extend predictions to scorers, assists, and timing of goals.
 
----
-
-## 📂 Repository Structure
